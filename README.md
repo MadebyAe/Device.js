@@ -1,4 +1,4 @@
-device.js
+Device.js
 =========
 
 #Detect browser key features easily with a few lines of code.
