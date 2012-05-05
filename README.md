@@ -10,3 +10,5 @@ device.js
 ##Retina Display prefix for images.
 ##Mobile / Desktop detection.
 ##Mouse / Touch detection.
+
+#### CSS example .ie6 {color:#000}
