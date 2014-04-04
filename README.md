@@ -5,10 +5,13 @@ Device.js
 ### Just copy and paste the code in your HTML or JS file.
 
 
-##Browser & OS detection.
-##Retina Display detection.
-##Retina Display prefix for images.
-##Mobile / Desktop detection.
-##Mouse / Touch detection.
+### Browser & OS detection.
+### Retina Display detection.
+### Retina Display prefix for images.
+### Mobile, Tablet, Desktop, TV detection.
+### Mouse / Touch detection.
 
-#### CSS example .ie6 {color:#000}
+#### 3 x Faster than Modernizr.
+
+
+#New version soon.
